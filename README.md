@@ -1,18 +1,18 @@
 # Freelance Projects Overview
 
-| Upcoming Projects                                                                                        | Ongoing Projects                              | Completed Projects           | Client Details         |
-| -------------------------------------------------------------------------------------------------------- | --------------------------------------------- | ---------------------------- | ---------------------- |
-|                                                                                                          |                                               | Terraform Configuration      | Cognizant, Hyderabad   |
-|                                                                                                          |                                               | Jenkins Pipeline Integration | Johnson & Johnson, USA |
-|                                                                                                          |                                               | Migration of Ansible Scripts | (Disclosed), USA       |
-|                                                                                                          | Development of DevSecOps Jenkins Pipeline     |                              | Cognizant, Hyderabad   |
-|                                                                                                          | Creation of 3-tier Portfolio Website          |                              | Personal               |
-|                                                                                                          | Documentation of Jenkins Library, JTE Usage   |                              | Personal               |
-| Kubernetes with Istio (Proof of Concept)                                                                 |                                               |                              | Johnson & Johnson, USA |
-| DevSecOps Jenkins Pipeline with 10-15 Stages                                                             |                                               |                              | Personal               |
-| Complete Kubernetes Cluster Setup, Disaster Recovery Plans and Usage                                     |                                               |                              | Personal               |
-| Documentation of Nginx Configuration Production                                   |                                               |                              | Personal               |
-| Documentation of Environment Configuration/Usage in Production for Different Applications like ReactJS, GoLang, etc. |                                          |                              | Personal               |
+| Upcoming Projects                                                                                                    | Ongoing Projects                            | Completed Projects           | Client Details         |
+| -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- | ---------------------------- | ---------------------- |
+|                                                                                                                      |                                             | Terraform Configuration      | Cognizant, Hyderabad   |
+|                                                                                                                      |                                             | Jenkins Pipeline Integration | Johnson & Johnson, USA |
+|                                                                                                                      |                                             | Migration of Ansible Scripts | (Disclosed), USA       |
+|                                                                                                                      | Development of DevSecOps Jenkins Pipeline   |                              | Cognizant, Hyderabad   |
+|                                                                                                                      | Creation of 3-tier Portfolio Website        |                              | Personal               |
+|                                                                                                                      | Documentation of Jenkins Library, JTE Usage |                              | Personal               |
+|                                                                                                                      | Kubernetes integration with Istio.          |                              | Johnson & Johnson, USA |
+| DevSecOps Jenkins Pipeline with 10-15 Stages                                                                         |                                             |                              | Personal               |
+| Complete Kubernetes Cluster Setup, Disaster Recovery Plans and Usage                                                 |                                             |                              | Personal               |
+| Documentation of Nginx Configuration Production                                                                      |                                             |                              | Personal               |
+| Documentation of Environment Configuration/Usage in Production for Different Applications like ReactJS, GoLang, etc. |                                             |                              | Personal               |
 
 
 ## Live Website: Rachakonda Dharmendra's Portfolio
