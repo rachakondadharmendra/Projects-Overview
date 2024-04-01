@@ -1,18 +1,24 @@
-# Freelance Projects Overview
 
-| Upcoming Projects                                                                                                    | Ongoing Projects                            | Completed Projects           | Client Details         |
-| -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- | ---------------------------- | ---------------------- |
-|                                                                                                                      |                                             | Terraform Configuration      | Cognizant, Hyderabad   |
-|                                                                                                                      |                                             | Jenkins Pipeline Integration | Johnson & Johnson, USA |
-|                                                                                                                      |                                             | Migration of Ansible Scripts | (Disclosed), USA       |
-|                                                                                                                      | Development of DevSecOps Jenkins Pipeline   |                              | Cognizant, Hyderabad   |
-|                                                                                                                      | Creation of 3-tier Portfolio Website        |                              | Personal               |
-|                                                                                                                      | Documentation of Jenkins Library, JTE Usage |                              | Personal               |
-|                                                                                                                      | Kubernetes integration with Istio.          |                              | Johnson & Johnson, USA |
-| DevSecOps Jenkins Pipeline with 10-15 Stages                                                                         |                                             |                              | Personal               |
-| Complete Kubernetes Cluster Setup, Disaster Recovery Plans and Usage                                                 |                                             |                              | Personal               |
-| Documentation of Nginx Configuration Production                                                                      |                                             |                              | Personal               |
-| Documentation of Environment Configuration/Usage in Production for Different Applications like ReactJS, GoLang, etc. |                                             |                              | Personal               |
+#  Projects Overview
+
+| Upcoming Projects                                                                                                    | Ongoing Projects                        | Completed Projects                                                | Blocker Reason                         | Project Status | GitHub URL                                                             |
+| -------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | ----------------------------------------------------------------- | -------------------------------------- | -------------- | ---------------------------------------------------------------------- |
+|                                                                                                                      |                                         | ECS Cluster setup with AWS in-house CI/CD pipeline using IaC tool |                                        | Completed      | [GitHub](https://github.com/rachakondadharmendra/Terraform-ECS-Setup)  |
+|                                                                                                                      |                                         | Monitoring setup with Prometheus, Grafana                         |                                        | Completed      | [GitHub](https://github.com/rachakondadharmendra/Monitoring-Setup)     |
+|                                                                                                                      |                                         | Error Page Templates                                              |                                        | Completed      | [GitHub](https://github.com/rachakondadharmendra/Error-Code-Templates) |
+|                                                                                                                      |                                         | Portfolio-v1.0                                                    |                                        | Completed      | [GitHub](https://github.com/rachakondadharmendra/Portfolio-v1.0)       |
+|                                                                                                                      |                                         | Built a 3-tier application for DevOps projects                    |                                        | Completed      | [GitHub](https://github.com/rachakondadharmendra/3-Tier-Application)   |
+|                                                                                                                      |                                         | Automated repetitive tasks using Ansible                          |                                        | Completed      |                                                                        |
+|                                                                                                                      |                                         | Developed Jenkins DevOps Pipeline for Monolith/Micro Applications | Documentation Pending                  | On Hold        |                                                                        |
+|                                                                                                                      |                                         | Development of DevSecOps Jenkins Pipeline                         | Documentation Pending                  | On Hold        |                                                                        |
+|                                                                                                                      | Working on Medium Blog                  |                                                                   |                                        | In Progress    |                                                                        |
+|                                                                                                                      | Kubernetes integration with Istio.      |                                                                   |                                        | In Progress    |                                                                        |
+|                                                                                                                      | DevSecOps Jenkins Pipeline with Argo CD |                                                                   |                                        | On Hold        |                                                                        |
+| Portfolio Website                                                                                                    |                                         |                                                                   | Need to create Project pages/Dashboard | On Hold        | [WEBSITE](https://rachakondadharmendra.info/#projects)                 |
+| Documentation of Nginx Configuration Production                                                                      |                                         |                                                                   |                                        | Planned        |                                                                        |
+| Documentation of Environment Configuration/Usage in Production for Different Applications like ReactJS, GoLang, etc. |                                         |                                                                   |                                        | Planned        |                                                                        |
+| Complete Kubernetes Cluster Setup, Disaster Recovery Plans and Usage                                                 |                                         |                                                                   |                                        | Planned        |                                                                        |
+
 
 
 ## Live Website: Rachakonda Dharmendra's Portfolio
@@ -26,5 +32,13 @@
 - Admins can access the data submitted by users through the following path: [https://rachakondadharmendra.info/admin](https://rachakondadharmendra.info/admin).
 - Superadmins have additional privileges such as deletion, updating, and patching of data. They can access their dashboard via [https://rachakondadharmendra.info/superadmin](https://rachakondadharmendra.info/superadmin).
 
+**API Documentation**:
+For API-related details, please visit: [https://rachakondadharmendra.info/api/all](https://rachakondadharmendra.info/api/all)
+
 **Warning**: This website is hosted on a UAT (User Acceptance Testing) environment and is solely intended to showcase the usage of a 3-tier application architecture. It is not intended for production use.
 
+## Server Monitoring: Uptime Kuma
+
+**URL**: [http://18.61.29.46:3002/status/portfolio](http://18.61.29.46:3002/status/portfolio)
+
+**Description**: This temporary server is newly provisioned. SSL will be added soon.
