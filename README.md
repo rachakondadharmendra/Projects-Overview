@@ -39,6 +39,6 @@ For API-related details, please visit: [https://rachakondadharmendra.info/api/al
 
 ## Server Monitoring: Uptime Kuma
 
-**URL**: [http://18.61.29.46:3002/status/portfolio](http://18.61.29.46:3002/status/portfolio)
+**URL**: [https://uptime-kuma.rachakondadharmendra.info/status/portfolio](https://uptime-kuma.rachakondadharmendra.info/status/portfolio)
 
-**Description**: This temporary server is newly provisioned. SSL will be added soon.
+**Description**: This temporary server is newly provisioned with SSL(via certbot)
